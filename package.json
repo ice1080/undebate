@@ -56,8 +56,8 @@
     "webpack-dev-server": "^4.6.0"
   },
   "peerDependencies": {
-    "civil-client": "github:EnCiv/civil-client",
-    "civil-server": "github:EnCiv/civil-server"
+    "civil-client": "github:ice1080/civil-client#undebate-ssp-send-password#154",
+    "civil-server": "github:ice1080/civil-server#isaac-temp"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
